@@ -37,5 +37,6 @@
 		<module>emaillist</module>
 		<module>emaillist01</module>
 		<module>emaillist02</module>
+		<module>jstl</module>
 	</modules>
 </project>
