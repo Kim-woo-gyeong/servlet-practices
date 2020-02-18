@@ -16,6 +16,7 @@
 	</dependencies>
 	
 	<build>
+	<finalName>jstlel</finalName>
 		<sourceDirectory>src/main/java</sourceDirectory>
 		<plugins>
 			<plugin>
