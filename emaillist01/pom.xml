@@ -70,7 +70,7 @@
 					<password>admin</password>
 				</configuration>
 			</plugin>
-		</plugins>
+		
 		
 		<plugin>
 			<groupId>org.apache.maven.plugins</groupId>
