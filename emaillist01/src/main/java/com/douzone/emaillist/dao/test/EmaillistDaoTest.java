@@ -7,7 +7,7 @@ import com.douzone.emaillist.vo.EmaillistVo;
 
 public class EmaillistDaoTest {
 	public static void main(String[] args) {
-//		insertTest();
+		insertTest();
 		selectTest();
 	}
 	
